@@ -1,4 +1,5 @@
 # to do:
+# This is just a test to see if I can push an update to Github (-Eric 03/31/2021)
 # print loaded filename to panel (DONE)
 # create button to generate line pixel sum text doc.  Button will generate a dialog for user to select path and filename. (DONE)
 # create a confirmation dialog for saving text file. (DONE)
